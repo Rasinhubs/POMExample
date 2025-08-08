@@ -1,0 +1,94 @@
+[INFO ] 2025-08-07 10:29:41.389 [main] CommonFunctions - Loading the Property file
+[INFO ] 2025-08-07 10:29:41.393 [main] CommonFunctions - Launching Chrome
+[INFO ] 2025-08-07 10:29:43.071 [main] CommonFunctions - Navigating to the application
+[INFO ] 2025-08-07 10:29:44.538 [main] ClickParticularItem - Clicking the Phone Products
+[INFO ] 2025-08-07 10:29:44.622 [main] ClickParticularItem - Selecting the First Phone
+[INFO ] 2025-08-07 10:29:46.260 [main] ClickParticularItem - Getting the Product Description
+[INFO ] 2025-08-07 10:29:46.280 [main] ClickParticularItem - The product desc matches successfully and the text is: Samsung galaxy s6
+[INFO ] 2025-08-07 10:29:46.280 [main] ClickParticularItem - Adding the Item to the cart
+[INFO ] 2025-08-07 10:29:47.400 [main] ClickParticularItem - Click the cart to see the added items
+[INFO ] 2025-08-07 10:29:48.874 [main] ClickParticularItem - The product added matches as expected.
+[INFO ] 2025-08-07 10:29:48.939 [main] ClickParticularItem - Deleting the Product from the list
+[INFO ] 2025-08-07 10:29:49.022 [main] ClickPlaceOrderWithoutAdding - Clicking the Place order
+[INFO ] 2025-08-07 10:29:49.097 [main] ClickPlaceOrderWithoutAdding - Clicking the Purchase Button.
+[INFO ] 2025-08-07 10:29:49.899 [main] CommonFunctions - Closing the Browser
+[INFO ] 2025-08-07 10:30:00.132 [main] CommonFunctions - Loading the Property file
+[INFO ] 2025-08-07 10:30:00.136 [main] CommonFunctions - Launching Chrome
+[INFO ] 2025-08-07 10:30:01.749 [main] CommonFunctions - Navigating to the application
+[INFO ] 2025-08-07 10:30:02.991 [main] ClickParticularItem - Clicking the Phone Products
+[INFO ] 2025-08-07 10:30:03.098 [main] ClickParticularItem - Selecting the First Phone
+[INFO ] 2025-08-07 10:30:04.739 [main] ClickParticularItem - Getting the Product Description
+[INFO ] 2025-08-07 10:30:04.755 [main] ClickParticularItem - The product desc matches successfully and the text is: Samsung galaxy s6
+[INFO ] 2025-08-07 10:30:04.755 [main] ClickParticularItem - Adding the Item to the cart
+[INFO ] 2025-08-07 10:30:05.869 [main] ClickParticularItem - Click the cart to see the added items
+[INFO ] 2025-08-07 10:30:07.382 [main] ClickParticularItem - The product added matches as expected.
+[INFO ] 2025-08-07 10:30:07.429 [main] ClickParticularItem - Deleting the Product from the list
+[INFO ] 2025-08-07 10:30:07.521 [main] ClickPlaceOrderWithoutAdding - Clicking the Place order
+[INFO ] 2025-08-07 10:30:07.586 [main] ClickPlaceOrderWithoutAdding - Clicking the Purchase Button.
+[INFO ] 2025-08-07 10:30:07.816 [main] ClickPlaceOrderWithoutAdding - The error is matches as expected and the error message is: Please fill out Name and Creditcard.
+[INFO ] 2025-08-07 10:30:07.831 [main] CommonFunctions - Closing the Browser
+[INFO ] 2025-08-07 10:33:06.712 [main] CommonFunctions - Loading the Property file
+[INFO ] 2025-08-07 10:33:06.715 [main] CommonFunctions - Launching Chrome
+[INFO ] 2025-08-07 10:33:08.382 [main] CommonFunctions - Navigating to the application
+[INFO ] 2025-08-07 10:33:09.563 [main] ClickParticularItem - Clicking the Phone Products
+[INFO ] 2025-08-07 10:33:09.635 [main] ClickParticularItem - Selecting the First Phone
+[INFO ] 2025-08-07 10:33:11.577 [main] ClickParticularItem - Getting the Product Description
+[INFO ] 2025-08-07 10:33:11.594 [main] ClickParticularItem - The product desc matches successfully and the text is: Samsung galaxy s6
+[INFO ] 2025-08-07 10:33:11.594 [main] ClickParticularItem - Adding the Item to the cart
+[INFO ] 2025-08-07 10:33:12.700 [main] ClickParticularItem - Click the cart to see the added items
+[INFO ] 2025-08-07 10:33:14.297 [main] ClickParticularItem - The product added matches as expected.
+[INFO ] 2025-08-07 10:33:14.346 [main] ClickParticularItem - Deleting the Product from the list
+[INFO ] 2025-08-07 10:33:14.433 [main] ClickPlaceOrderWithoutAdding - Clicking the Place order
+[INFO ] 2025-08-07 10:33:14.498 [main] ClickPlaceOrderWithoutAdding - Clicking the Purchase Button.
+[INFO ] 2025-08-07 10:33:14.729 [main] ClickPlaceOrderWithoutAdding - The error is matches as expected and the error message is: Please fill out Name and Creditcard.
+[INFO ] 2025-08-07 10:33:14.745 [main] CommonFunctions - Closing the Browser
+[INFO ] 2025-08-07 10:36:49.153 [main] CommonFunctions - Loading the Property file
+[INFO ] 2025-08-07 10:36:49.156 [main] CommonFunctions - Launching Chrome
+[INFO ] 2025-08-07 10:36:50.788 [main] CommonFunctions - Navigating to the application
+[INFO ] 2025-08-07 10:36:52.114 [main] ClickParticularItem - Clicking the Phone Products
+[INFO ] 2025-08-07 10:36:52.215 [main] ClickParticularItem - Selecting the First Phone
+[INFO ] 2025-08-07 10:36:54.295 [main] ClickParticularItem - Getting the Product Description
+[INFO ] 2025-08-07 10:36:54.316 [main] ClickParticularItem - The product desc matches successfully and the text is: Samsung galaxy s6
+[INFO ] 2025-08-07 10:36:54.316 [main] ClickParticularItem - Adding the Item to the cart
+[INFO ] 2025-08-07 10:36:55.442 [main] ClickParticularItem - Click the cart to see the added items
+[INFO ] 2025-08-07 10:36:57.233 [main] ClickParticularItem - The product added matches as expected.
+[INFO ] 2025-08-07 10:36:57.285 [main] ClickParticularItem - Deleting the Product from the list
+[INFO ] 2025-08-07 10:36:57.362 [main] ClickPlaceOrderWithoutAdding - Click the cart to see the added items
+[INFO ] 2025-08-07 10:37:27.407 [main] CommonFunctions - Closing the Browser
+[INFO ] 2025-08-07 11:04:35.254 [main] CommonFunctions - Loading the Property file
+[INFO ] 2025-08-07 11:04:35.258 [main] CommonFunctions - Launching Chrome
+[INFO ] 2025-08-07 11:04:36.948 [main] CommonFunctions - Navigating to the application
+[INFO ] 2025-08-07 11:04:38.354 [main] ClickParticularItem - Clicking the Phone Products
+[INFO ] 2025-08-07 11:04:38.439 [main] ClickParticularItem - Selecting the First Phone
+[INFO ] 2025-08-07 11:04:40.210 [main] ClickParticularItem - Getting the Product Description
+[INFO ] 2025-08-07 11:04:40.229 [main] ClickParticularItem - The product desc matches successfully and the text is: Samsung galaxy s6
+[INFO ] 2025-08-07 11:04:40.229 [main] ClickParticularItem - Adding the Item to the cart
+[INFO ] 2025-08-07 11:04:41.330 [main] ClickParticularItem - Click the cart to see the added items
+[INFO ] 2025-08-07 11:04:42.940 [main] ClickParticularItem - The product added matches as expected.
+[INFO ] 2025-08-07 11:04:42.993 [main] ClickParticularItem - Deleting the Product from the list
+[INFO ] 2025-08-07 11:04:43.082 [main] CommonFunctions - Closing the Browser
+[INFO ] 2025-08-07 14:39:46.473 [main] CommonFunctions - Closing the Browser
+[INFO ] 2025-08-07 14:42:36.725 [main] CommonFunctions - Loading the Property file
+[INFO ] 2025-08-07 14:42:36.864 [main] CommonFunctions - Launching Chrome
+[INFO ] 2025-08-07 14:42:38.714 [main] CommonFunctions - Navigating to the application
+[INFO ] 2025-08-07 14:42:40.444 [main] ClickParticularItem - Clicking the Phone Products
+[INFO ] 2025-08-07 14:42:40.589 [main] ClickParticularItem - Selecting the First Phone
+[INFO ] 2025-08-07 14:42:42.001 [main] ClickParticularItem - Getting the Product Description
+[INFO ] 2025-08-07 14:42:42.033 [main] ClickParticularItem - The product desc matches successfully and the text is: Samsung galaxy s6
+[INFO ] 2025-08-07 14:42:42.033 [main] ClickParticularItem - Adding the Item to the cart
+[INFO ] 2025-08-07 14:42:43.172 [main] ClickParticularItem - Click the cart to see the added items
+[INFO ] 2025-08-07 14:42:44.844 [main] ClickParticularItem - The product added matches as expected.
+[INFO ] 2025-08-07 14:42:44.910 [main] ClickParticularItem - Deleting the Product from the list
+[INFO ] 2025-08-07 14:42:45.017 [main] CommonFunctions - Closing the Browser
+[INFO ] 2025-08-07 14:46:04.134 [main] CommonFunctions - Loading the Property file
+[INFO ] 2025-08-07 14:46:04.268 [main] CommonFunctions - Launching Chrome
+[INFO ] 2025-08-07 14:46:05.977 [main] CommonFunctions - Navigating to the application
+[INFO ] 2025-08-07 14:46:07.128 [main] ClickParticularItem - Clicking the Phone Products
+[INFO ] 2025-08-07 14:46:07.271 [main] ClickParticularItem - Selecting the First Phone
+[INFO ] 2025-08-07 14:46:09.823 [main] ClickParticularItem - Getting the Product Description
+[INFO ] 2025-08-07 14:46:09.858 [main] ClickParticularItem - The product desc matches successfully and the text is: Samsung galaxy s6
+[INFO ] 2025-08-07 14:46:09.858 [main] ClickParticularItem - Adding the Item to the cart
+[INFO ] 2025-08-07 14:46:10.994 [main] ClickParticularItem - Click the cart to see the added items
+[INFO ] 2025-08-07 14:46:12.632 [main] ClickParticularItem - The product added matches as expected.
+[INFO ] 2025-08-07 14:46:12.695 [main] ClickParticularItem - Deleting the Product from the list
+[INFO ] 2025-08-07 14:46:12.823 [main] CommonFunctions - Closing the Browser

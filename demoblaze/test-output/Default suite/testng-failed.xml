@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="org.example.testCases.ClickPlaceOrderWithoutAdding">
+        <methods>
+          <include name="setup"/>
+          <include name="placeOrderWithoutAdd"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- org.example.testCases.ClickPlaceOrderWithoutAdding -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
